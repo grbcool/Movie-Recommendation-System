@@ -19,4 +19,4 @@ Best RMSE: 0.77
 Best MAPE: 25%
 
 ---
-The Movie_Recommendation_System_Report.ppt file contains all the descriptions about data, Exploratory Data Analysis, model architecture and comparison of training metrics along with Model outputs.
+The Movie_Recommendation_System_Report.pdf file contains all the descriptions about data, Exploratory Data Analysis, model architecture and comparison of training metrics along with Model outputs.
